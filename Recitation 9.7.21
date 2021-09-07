@@ -1,0 +1,21 @@
+print(7+10-(2/2))
+print((100%2)+1)
+
+x = ["Dog","Cat","Bird"]
+print(x)
+
+y = 20.10
+print(type(y))
+print(y/3)
+
+print("Hello \nWorld")
+
+points_obtained = 88
+total_points = 100
+percentage = (points_obtained/total_points)*100
+print(percentage)
+
+print(x[1])
+
+z = "I'm a UB Student"
+print(z[-2])
